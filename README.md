@@ -42,5 +42,24 @@ MySQL database:
 - Seat Allocation
 - Revenue Reporting
 
+## Screenshots
+
+### Home Menu
+![Home Menu](stadiumhomemenu.png)
+
+### User Menu
+![User Menu](stadiumusermenu.png)
+
+### Staff Menu
+![Staff Menu](stadiumstaffmenu.png)
+
+### Match Details
+![Match Details](stadiumavailablematch.png)
+
+### Ticket Booking
+![Ticket Booking](stadiumticketbooking.png)
+
+### Database Schema
+![Database](stadiumoveralldb.png)
 ## Author
 Dhyey Kavaiya
